@@ -1,14 +1,20 @@
 {
-  "name": "word-counter",
-  "displayName": "word-counter",
+  "name": "word-counter-tool",
+  "displayName": "Real-Time Word Counter",
   "description": "Shows word count of current file",
+  "publisher": "DorianN612",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.120.0"
   },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/DorianKalliope/word-counter.git"
+  },
   "categories": [
     "Other"
   ],
+  "icon":"icon.ico",
   "activationEvents": [
     "onStartupFinished"
   ],
