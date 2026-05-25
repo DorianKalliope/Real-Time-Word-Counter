@@ -1,4 +1,4 @@
-# Word Counter
+# Real Time Word Counter
 
 A simple VS Code extension that shows the number of words in the current file.
 
