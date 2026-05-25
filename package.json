@@ -1,6 +1,6 @@
 {
-  "name": "word-counter-tool",
-  "displayName": "Real-Time Word Counter",
+  "name": "wordcountertool",
+  "displayName": "RealTime Word Counter",
   "description": "Shows word count of current file",
   "publisher": "DorianN612",
   "version": "0.0.1",
@@ -9,7 +9,7 @@
   },
   "repository":{
     "type":"git",
-    "url":"https://github.com/DorianKalliope/word-counter.git"
+    "url":"https://github.com/DorianKalliope/Real-Time-Word-Counter.git"
   },
   "categories": [
     "Other"
